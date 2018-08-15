@@ -48,7 +48,7 @@ button:hover{
   }
   </script>
 <a href="https://defaultgroup.github.io/Number6/"> <button> 다음문제로! </button></a> &nbsp; &nbsp;
-<a href="https://defaultgroup.github.io/START/" id="first"> <button> 처음으로! </button></a> &nbsp; &nbsp;
-<a href="https://defaultgroup.github.io/END/" id="final"> <button> 최종정답으로! </button></a>
+<a href="https://defaultgroup.github.io/START/"> <button> 처음으로! </button></a> &nbsp; &nbsp;
+<a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
 </body>
 </html>
