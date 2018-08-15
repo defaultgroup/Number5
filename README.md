@@ -41,6 +41,7 @@ button:hover{
 <button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'">
   <strong>5번</strong></button>
   <br>
+  <br>
   <button onclick="hint()">힌트</button>
   <p id="hint"></p>
   <script>
