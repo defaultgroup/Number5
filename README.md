@@ -27,19 +27,11 @@ button:hover{
 <br>
 <br>
 <br>
-<button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'">
-  <strong>1번</strong></button>
-  &emsp;&emsp;&emsp;&emsp;
-<button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'"><strong>2번</strong></button>
-&emsp;&emsp;&emsp;&emsp;
-<button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfNjgg/MDAxNTMyOTQ5ODQ3OTIx.M3hgYCFu0UAXKYMn4bS_9_Jw3W4_xn906O2cqD0KjVUg.gFvKThE0Hwa_JEAcQ55Gs0VnNKgFMAo84uQUhqdVrasg.PNG.ychh1123/hand.png?type=w580'"
-><strong>3번</strong></button>
-&emsp;&emsp;&emsp;&emsp;
-<button onclick="document.getElementById('myImage').src=' https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'">
-  <strong>4번</strong></button>
-&emsp;&emsp;&emsp;&emsp;
-<button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'">
-  <strong>5번</strong></button>
+<input type="button" value="1번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="2번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="3번" onclick="alert('ㅁ')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="4번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="5번" onclick="alert('')">
   <br>
   <br>
   <button onclick="hint()">힌트</button>
