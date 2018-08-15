@@ -22,8 +22,8 @@ button:hover{
 
 <h2>문제 시작!</h2>
 
-<p>@. 다음문제에 대한 정답을 골라 <strong>알맞은</strong> 버튼을 누르세요</p>
-<img id="myImage"src="http://mblogthumb1.phinf.naver.net/20161015_212/kangyu718_1476534601188RBDeE_PNG/16_%BC%F6%C6%AF_%B9%B01_p.50_7%B9%F8.png?type=w2" alt="수능특강 물리 문제에 대한 이미지 검색결과" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="350" style="margin-top: 2px;">
+<p>5. 다음문제에 대한 정답을 골라 <strong>알맞은</strong> 버튼을 누르세요</p>
+<img src="http://mblogthumb1.phinf.naver.net/20161015_212/kangyu718_1476534601188RBDeE_PNG/16_%BC%F6%C6%AF_%B9%B01_p.50_7%B9%F8.png?type=w2" alt="수능특강 물리 문제에 대한 이미지 검색결과" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="350" style="margin-top: 2px;">
 <br>
 <br>
 <br>
@@ -40,6 +40,7 @@ button:hover{
 &emsp;&emsp;&emsp;&emsp;
 <button onclick="document.getElementById('myImage').src='https://postfiles.pstatic.net/MjAxODA3MzBfMTQw/MDAxNTMyOTQ5OTc1ODQx.R91xbbwDZbniiwFFXH3n0mbWNUzvQwEJ13FD7wLGliwg.56wB_jFrWgJiA0_N09ps760ny2P3ozAym5dTQ7FVqmog.PNG.ychh1123/bad-face_%281%29.png?type=w580'">
   <strong>5번</strong></button>
+  <br>
   <button onclick="hint()">힌트</button>
   <p id="hint"></p>
   <script>
