@@ -27,11 +27,11 @@ button:hover{
 <br>
 <br>
 <br>
-<input type="button" value="1번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
-<input type="button" value="2번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="1번" onclick="alert('N')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="2번" onclick="alert('Q')">  &emsp;&emsp;&emsp;&emsp;
 <input type="button" value="3번" onclick="alert('U')">  &emsp;&emsp;&emsp;&emsp;
-<input type="button" value="4번" onclick="alert('ㅂ')">  &emsp;&emsp;&emsp;&emsp;
-<input type="button" value="5번" onclick="alert('')">
+<input type="button" value="4번" onclick="alert('P')">  &emsp;&emsp;&emsp;&emsp;
+<input type="button" value="5번" onclick="alert('E')">
   <br>
   <br>
   <button onclick="hint()">힌트</button>
